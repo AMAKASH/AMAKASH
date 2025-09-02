@@ -18,8 +18,8 @@ I love building full-stack applications, crafting intelligent agents, and solvin
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AMAKASH&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMAKASH&theme=radical" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AMAKASH&show_icons=true&theme=dark" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMAKASH&theme=dark" alt="GitHub Streak" height="160" />
 </p>
 
 ---
@@ -27,11 +27,12 @@ I love building full-stack applications, crafting intelligent agents, and solvin
 ## 📈 Languages & Contribution Graphs
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMAKASH&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AMAKASH&theme=radical" alt="Contribution Graph" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMAKASH&layout=compact&theme=dark" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AMAKASH&theme=github-dark" alt="Contribution Graph" height="160"/>
 </p>
 
 ---
+
 
 ## 💡 Why I Code
 
@@ -51,13 +52,6 @@ Even with zero stars or followers now, I believe in building with impact:
 Feel free to connect if you’re into algorithms, AI/NLP, web, or any cool engineering challenges!
 
 ---
-
-## 📌 How to Use This README
-
-1. Create a repo named **`AMAKASH/AMAKASH`** (same as your username).  
-2. Put this `README.md` inside it.  
-3. Fill in your real contact info and links.  
-4. Done 🎉 – your profile page will now show this README with live stats and graphs!  
 
 
 <!---
