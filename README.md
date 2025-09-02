@@ -33,6 +33,22 @@ I love building full-stack applications, crafting intelligent agents, and solvin
 
 ---
 
+## 🛠️ What I Work With
+
+<p align="center">
+  <!-- Node.js -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <!-- Express.js -->
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <!-- Angular -->
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <!-- Django -->
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <!-- Windows Presentation Foundation -->
+  <img src="https://img.shields.io/badge/WPF-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+
 
 ## 💡 Why I Code
 
