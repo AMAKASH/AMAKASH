@@ -1,4 +1,4 @@
-# Hi there, I’m Abid 👋
+# Hi there, I’m Abid Mahmood Akash👋
 
 I’m a **Computer Engineer** (based in Dhaka, Bangladesh) passionate about web development, data science, algorithms, and NLP.  
 I love building full-stack applications, crafting intelligent agents, and solving algorithmic challenges.
