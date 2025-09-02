@@ -19,7 +19,7 @@ I love building full-stack applications, crafting intelligent agents, and solvin
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AMAKASH&show_icons=true&theme=dark" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMAKASH&theme=dark" alt="GitHub Streak" height="160" />
+ 
 </p>
 
 ---
